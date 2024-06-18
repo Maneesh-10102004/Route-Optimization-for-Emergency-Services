@@ -14,3 +14,6 @@ g++ -o main main.cpp <br>
 dot -Tpng graph.dot -o graph.png <br>
 - A png file containing the required image is created in the same directory as that of the "graph.dot" file.
 
+- Note: The graph.dot and graph.png files that I have uploaded are for my specific city map and I uploaded them just for your reference.
+- You can create your own city map and do the same if you wish.
+- For detailed functioning, please refer to the documentation.md file in the repo.
