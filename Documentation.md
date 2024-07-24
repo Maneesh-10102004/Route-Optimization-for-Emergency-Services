@@ -72,7 +72,7 @@ If alt is smaller than the current known distance to the neighbor, the distance 
 
 - At last, the DOT file is closed.
 
-- Note: To create the image of the graph, in addition to the user input, you should type the folloewing line in Command Prompt after navigating to the directory containing the "graph.dot" file: <br>
+- Note: To create the image of the graph, in addition to the user input, you should type the following line in Command Prompt after navigating to the directory containing the "graph.dot" file: <br>
 dot -Tpng graph.dot -o graph.png
 
 - graph.png is just the name of the image, you can have any name you want.
